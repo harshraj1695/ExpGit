@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
-	ïnt a=10;
-	printf("%d",a);
+	int a=15;
+	int b=16;
+	printf("%d %d",a,b);
 	return 0;
 }
 
